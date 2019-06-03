@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SudokuGame
+comment1.params=currenttextfields
+comment1.target=SudokuGame(javax.swing.JFormattedTextField[][])
+comment2.params=line
+comment2.target=boolean\ checkRowColumn(javax.swing.JFormattedTextField[])
+comment3.params=index
+comment3.target=javax.swing.JFormattedTextField[]\ createCol(int)
+comment4.params=one\ two
+comment4.target=javax.swing.JFormattedTextField[]\ createBox(int,\ int)
+comment5.params=
+comment5.target=boolean\ isWinner()
+numComments=6
